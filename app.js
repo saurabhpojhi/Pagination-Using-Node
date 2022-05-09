@@ -43,7 +43,7 @@ router.get('/usersdata',(req,res) => {
 
 // http://localhost:3000/api/usersdata?pageNo=1&size=5
 
-  router.get('/users',(req,res) => {
+  router.get('/usersdata',(req,res) => {
     var pageNo = parseInt(req.query.pageNo)
     var size = parseInt(req.query.size)
     var query = {}
