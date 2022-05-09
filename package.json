@@ -1,0 +1,23 @@
+{
+  "name": "pagination-using-node",
+  "version": "1.0.0",
+  "description": "Server Side Pagination Using Node and Mongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhpojhi/Pagination-Using-Node.git"
+  },
+  "author": "saurabh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saurabhpojhi/Pagination-Using-Node/issues"
+  },
+  "homepage": "https://github.com/saurabhpojhi/Pagination-Using-Node#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.3.3"
+  }
+}
