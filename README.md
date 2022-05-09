@@ -18,3 +18,7 @@ Suppose you have 1000 documents and you want 10 documents per page i.e size of t
 So a number of pages are 1000/10 = 10.
 
 The page number can either begin with 0 or 1 depending on your choice.
+
+
+### Skip = size * (page number -1)
+### Limit = size
